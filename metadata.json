@@ -1,0 +1,5 @@
+{
+  "name": "Pubzelo",
+  "description": "An intuitive web application that leverages the Gemini API to perform powerful, prompt-based edits, enhance photo quality, expand image canvases, or generate entirely new images from text descriptions with various aspect ratios.",
+  "requestFramePermissions": []
+}
